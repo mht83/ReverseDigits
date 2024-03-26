@@ -25,3 +25,7 @@ After running the application, follow the on-screen instructions to enter an int
 ## Contribution
 Contributions to improve ReverseDigits are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
 
+## Authors
+
+Mohammadhassan Tohidi @mht83
+
